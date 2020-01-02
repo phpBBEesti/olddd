@@ -1,0 +1,36 @@
+<?php
+$language["LOTT_NEED_UPLOAD"] = "Pead olema vähemalt 100 MB ülesse laadinud, et piletit osta!";
+$language["LOTT_VIEW_LAST_WINNERS"] = "VÕITJAD!";
+$language["LOTT_TICK_MSG1"] = "Piletid ei ole tagastatavad";
+$language["LOTT_TICK_MSG2"] = "Iga pilet maksab";
+$language["LOTT_TICK_MSG3"] = "mis võetakse sinu uploadi arvelt";
+$language["LOTT_TICK_MSG4"] = "'Võimalik osta' näitab, mitut piletit saad endale lubada";
+$language["LOTT_TICK_MSG5"] = "Ostes pileteid, jälgi, et sinu upload ei langeks alla 100 MB, sest siis ei saa loosimises osaleda";
+$language["LOTT_TICK_MSG6"] = "Loterii lõpeb";
+$language["LOTT_TICK_MSG7"] = "Kokku on";
+$language["LOTT_TICK_MSG8"] = "võitjat, igaüks saab";
+$language["LOTT_TICK_MSG9"] = "uploadi oma arvele";
+$language["LOTT_TICK_MSG10"] = "Võitjaid näeb lingi 'VÕITJAD!' alt";
+$language["LOTT_TICK_MSG11"] = "Mida rohkem pileteid ostetakse, seda suurem on auhinnafond!";
+$language["LOTT_TICK_MSG12"] = "Sinu piletite numbrid:";
+$language["LOTT_TICK_MSG13"] = "Head loosiõnne!";
+$language["LOTT_TOTAL_IN_POT"] = "Auhinnafond";
+$language["LOTT_TOTAL_TICKETS_SELLED"]="Pileteid kokku";
+$language["LOTT_TICKETS"] = "piletit";
+$language["LOTT_YOUR_TICKETS"] = "Sinu piletid";
+$language["LOTT_PURCHASEABLE"] = "Võimalik osta";
+$language["LOTT_PURCHASE"] = "Osta";
+$language["LOTT_PURCHASE_SUCCES"]="Ost õnnestus";
+$language["LOTT_PURCH_MSG1"]="Sa ostsid ";
+$language["LOTT_PURCH_MSG2"]=" pilet(it)!";
+$language["LOTT_PURCH_MSG3"]="Kokku on sul pileteid ";
+$language["LOTT_PURCH_MSG4"]="Sinu uus upload on ";
+$language["LOTT_PURCH_MSG5"]="Sind suunatakse piletite lehele!";
+$language["LOTT_CLOSED"]="Loterii on lõppenud!";
+$language["LOTT_USERNAME"]="Kasutaja";
+$language["WINDATE"]="Võidu kuupäev";
+$language["PRICE"]="Auhind";
+$language["NO_WINNERS_YET"]="Siiani ei ole veel võitjaid!";
+$language["LOTT_EXPIRE_DATE"]="Lõpu kuupäev";
+$language["LOTT_EXPIRE_TIME"]="Lõpu kellaaeg";
+?>
